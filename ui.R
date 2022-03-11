@@ -17,7 +17,7 @@ body = dashboardBody(
     tabItems(tabItem(tabName = "intro",
                      h2("RealWEthon22"),
                      h3('Challenge: Develop a disease exploration platform (R-shiny or python) with pooled data from RCTs and RWE'),
-                     h3("Welcome to RCT / WRE Engine Analyzer solution"),
+                     h3("Welcome to RCT / RWE Engine Analyzer solution"),
                      shiny::p("What if we could have a platform where we could visualize data form our RWD sources in a new way. 
                                Not only looking from disease onset but also what happens before? Are there patterns we can visualize and see 
                                emerging from the data on a holistic patient journey. A platform which enables us to interactively look at our 
